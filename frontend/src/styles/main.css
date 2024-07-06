@@ -1,0 +1,23 @@
+/* Example CSS styles */
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  input, button {
+    margin: 0.5rem;
+    padding: 0.5rem;
+  }
+  
+  button {
+    cursor: pointer;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    margin: 0.5rem 0;
+  }
+  
